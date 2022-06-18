@@ -1,0 +1,23 @@
+{
+  "name": "main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/voice": "^0.9.0",
+    "ascii-table": "^0.0.9",
+    "discord-radio": "^0.0.4",
+    "discord.js": "^12.5.3",
+    "discord.js-self": "^12.0.4",
+    "ffmpeg": "^0.0.4",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.3",
+    "moment-jalaali": "^0.9.6",
+    "opusscript": "^0.0.8"
+  }
+}
